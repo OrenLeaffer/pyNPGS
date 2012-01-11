@@ -1,0 +1,24 @@
+color list for recoloring dc2 files
+if a color is assigned to layer 0, then it will be used for non assigned layers
+    other wise, those layers won't be recolored
+anyline with non numeric characters will be ignored
+
+format:
+layer RRR GGG BBB
+
+0  245 245 245
+
+1  206 186 0
+2  255 130 4
+3  128 0   0
+
+5  57  227 0
+6  0   128 128
+7  0   0   255
+8  255 0   255
+
+11 255 255 0
+12 255 0   0
+
+14 242 0   175
+18 0   255 255
